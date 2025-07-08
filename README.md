@@ -5,9 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/techhypein/assets/main/data_analytics_banner.gif" width="90%" alt="Data Analytics Banner"/>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/14268/screenshots/14637530/media/2590ab7d3eb14ef6931911f70d3475f3.gif" width="70%" alt="I work with Data, APIs and Automation." />
+</p>
 
 - 🎓 Final-year B.Tech in CSE (Data Science), Gulzar Group of Institutes (PTU)  
 - 📊 Aspiring **Data Analyst** with hands-on skills in real datasets, dashboards, and business insights  
@@ -34,6 +42,14 @@ Exploratory data analysis project identifying churn factors using pandas, matplo
 
 #### 📺 [Netflix Content Analysis](https://github.com/Shubham1919284/Netflix_Content_Analysis)  
 Insightful analysis of Netflix content data using Python & seaborn to explore genre, ratings, and trends over time.
+
+---
+
+### 🧠 What I Work With
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/techhypein/assets/main/what_i_work_with_ds.png" width="80%" alt="What I Work With - Tech Stack"/>
+</p>
 
 ---
 
@@ -73,5 +89,5 @@ Insightful analysis of Netflix content data using Python & seaborn to explore ge
 
 ---
 
-⭐ *Thanks for stopping by! Whether it’s analytics, APIs, or AI tools — I’m always excited to build something useful and impactful.*  
+⭐ *Thanks for visiting! Whether it’s analytics, APIs, or AI tools — I’m always excited to build something useful and impactful.*  
 Let’s collaborate and grow together 💡
