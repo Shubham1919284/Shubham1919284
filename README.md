@@ -28,7 +28,7 @@ Voice-enabled Flask app with 3-day forecasts, AQI, and alerts. UI is emoji-enhan
 #### 📰 [News Teller (Smart News Digest)](https://github.com/Shubham1919284/News_Teller)  
 Summarizes top Indian news headlines with category filters. NLP-based. Clean UI, India-focused.
 
-#### 🎬 [Movie Recommendation System](https://github.com/Shubham1919284/movie-recommender)  
+#### 🎬 [Movie Recommendation System](https://github.com/Shubham1919284/Dynamic_Movie_Recommendation_System)
 TMDB-powered movie app with content filtering via cosine similarity. Fast Flask UI.
 
 #### 📉 [Telecom Churn Analysis (EDA)](https://github.com/Shubham1919284/Telecom-Churn-Analysis)  
