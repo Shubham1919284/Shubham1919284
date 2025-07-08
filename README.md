@@ -5,8 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<!-- 🔄 You can replace this with your custom banner if needed -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techhypein/assets/main/data_analytics_banner.gif" width="90%" alt="Data Analytics Banner"/>
+  <img src="https://github.com/techhypein/assets/blob/main/data_banner_placeholder.png?raw=true" width="90%" alt="Data Analytics Banner"/>
 </p>
 
 ---
@@ -14,7 +15,7 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/14268/screenshots/14637530/media/2590ab7d3eb14ef6931911f70d3475f3.gif" width="70%" alt="I work with Data, APIs and Automation." />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Data and Automation GIF"/>
 </p>
 
 - 🎓 Final-year B.Tech in CSE (Data Science), Gulzar Group of Institutes (PTU)  
@@ -48,7 +49,7 @@ Insightful analysis of Netflix content data using Python & seaborn to explore ge
 ### 🧠 What I Work With
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techhypein/assets/main/what_i_work_with_ds.png" width="80%" alt="What I Work With - Tech Stack"/>
+  <img src="https://github.com/techhypein/assets/blob/main/what_i_work_with_ds_v2.png?raw=true" width="80%" alt="What I Work With - Tech Stack"/>
 </p>
 
 ---
