@@ -5,6 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+---
+
 ### 👨‍💻 About Me
 
 - 🎓 Final-year B.Tech in CSE (Data Science), Gulzar Group of Institutes (PTU)  
@@ -15,6 +19,7 @@
 - 📫 Reach me: **sk1919284@gmail.com**
 
 ---
+
 
 ### 💼 Featured Projects
 
@@ -35,13 +40,6 @@ Explored Netflix data: genre trends, content types, and platform focus. Insight-
 
 ---
 
-### 🧠 What I Work With
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/techhypein/assets/main/what_i_work_with_ds_v2.png" width="85%" alt="Stack overview - Data, ML, APIs, UI"/>
-</p>
-
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -73,7 +71,7 @@ Explored Netflix data: genre trends, content types, and platform focus. Insight-
 
 <p align="left">
   <a href="mailto:sk1919284@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shubham-kumar-jha-69b4161b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Shubham1919284"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
