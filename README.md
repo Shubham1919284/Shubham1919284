@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
----
-
 ### 👨‍💻 About Me
 
 - 🎓 Final-year B.Tech in CSE (Data Science), Gulzar Group of Institutes (PTU)  
@@ -17,14 +13,6 @@
 - 💡 I love building things that look like products, not just projects  
 - 🧠 Learning LLM integrations & NLP-powered tools  
 - 📫 Reach me: **sk1919284@gmail.com**
-
----
-
-### 🖼️ What I Do
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/techhypein/assets/main/shubham_data_ai_banner.png" width="95%" alt="Data & AI Projects" />
-</p>
 
 ---
 
