@@ -5,51 +5,52 @@
   <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- 🔄 You can replace this with your custom banner if needed -->
-<p align="center">
-  <img src="https://github.com/techhypein/assets/blob/main/data_banner_placeholder.png?raw=true" width="90%" alt="Data Analytics Banner"/>
-</p>
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Data and Automation GIF"/>
-</p>
-
 - 🎓 Final-year B.Tech in CSE (Data Science), Gulzar Group of Institutes (PTU)  
-- 📊 Aspiring **Data Analyst** with hands-on skills in real datasets, dashboards, and business insights  
-- 🤖 Builder of **smart AI apps** using Flask, Streamlit, APIs, and automation logic  
-- 💡 Strong believer in working smart — not harder — through clean, functional code  
-- 🌱 Currently exploring **LLM integrations**, voice interfaces, and NLP-based summarization  
+- 📊 **Data Analyst** experienced with real-world datasets, dashboards & insights  
+- 🤖 Developer of smart tools using **Python, Flask, Streamlit, APIs, and automation logic**  
+- 💡 I love building things that look like products, not just projects  
+- 🧠 Learning LLM integrations & NLP-powered tools  
 - 📫 Reach me: **sk1919284@gmail.com**
+
+---
+
+### 🖼️ What I Do
+
+<p align="center">
+  <img src="https://github.com/techhypein/assets/blob/main/shubham_data_ai_banner.png?raw=true" width="95%" alt="Data & AI Projects" />
+</p>
 
 ---
 
 ### 💼 Featured Projects
 
 #### 🌦️ [SkyCast – Smart Weather Assistant](https://github.com/Shubham1919284/skycast)  
-Voice-enabled Flask app for 3-day forecasts, AQI insights, and real-time weather alerts. Responsive emoji-rich UI.
+Voice-enabled Flask app with 3-day forecasts, AQI, and alerts. UI is emoji-enhanced and responsive.
 
 #### 📰 [News Teller (Smart News Digest)](https://github.com/Shubham1919284/News_Teller)  
-NLP-based news app that summarizes top Indian headlines by category or keyword using WeatherAPI + Sumy + TextBlob.
+Summarizes top Indian news headlines with category filters. NLP-based. Clean UI, India-focused.
 
 #### 🎬 [Movie Recommendation System](https://github.com/Shubham1919284/movie-recommender)  
-Recommends movies based on content similarity using TMDB API and Flask — a clean, user-friendly movie app.
+TMDB-powered movie app with content filtering via cosine similarity. Fast Flask UI.
 
 #### 📉 [Telecom Churn Analysis (EDA)](https://github.com/Shubham1919284/Telecom-Churn-Analysis)  
-Exploratory data analysis project identifying churn factors using pandas, matplotlib, and seaborn.
+Found key churn indicators from customer behavior using EDA, pandas, and seaborn.
 
 #### 📺 [Netflix Content Analysis](https://github.com/Shubham1919284/Netflix_Content_Analysis)  
-Insightful analysis of Netflix content data using Python & seaborn to explore genre, ratings, and trends over time.
+Explored Netflix data: genre trends, content types, and platform focus. Insight-driven.
 
 ---
 
 ### 🧠 What I Work With
 
 <p align="center">
-  <img src="https://github.com/techhypein/assets/blob/main/what_i_work_with_ds_v2.png?raw=true" width="80%" alt="What I Work With - Tech Stack"/>
+  <img src="https://github.com/techhypein/assets/blob/main/what_i_work_with_ds_v2.png?raw=true" width="85%" alt="Stack overview - Data, ML, APIs, UI"/>
 </p>
 
 ---
@@ -57,16 +58,16 @@ Insightful analysis of Netflix content data using Python & seaborn to explore ge
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Seaborn-16A085?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Plotly-D11A47?style=flat&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-16A085?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -74,7 +75,7 @@ Insightful analysis of Netflix content data using Python & seaborn to explore ge
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=radical" alt="Shubham's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -90,5 +91,4 @@ Insightful analysis of Netflix content data using Python & seaborn to explore ge
 
 ---
 
-⭐ *Thanks for visiting! Whether it’s analytics, APIs, or AI tools — I’m always excited to build something useful and impactful.*  
-Let’s collaborate and grow together 💡
+⭐ *Thanks for visiting! Whether it’s analytics, APIs, or automation — I’m excited to build smart, useful tools. Let’s connect and grow together.* 💡
