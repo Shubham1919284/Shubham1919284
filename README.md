@@ -23,7 +23,7 @@
 ### 🖼️ What I Do
 
 <p align="center">
-  <img src="https://github.com/techhypein/assets/blob/main/shubham_data_ai_banner.png?raw=true" width="95%" alt="Data & AI Projects" />
+  <img src="https://raw.githubusercontent.com/techhypein/assets/main/shubham_data_ai_banner.png" width="95%" alt="Data & AI Projects" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ Explored Netflix data: genre trends, content types, and platform focus. Insight-
 ### 🧠 What I Work With
 
 <p align="center">
-  <img src="https://github.com/techhypein/assets/blob/main/what_i_work_with_ds_v2.png?raw=true" width="85%" alt="Stack overview - Data, ML, APIs, UI"/>
+  <img src="https://raw.githubusercontent.com/techhypein/assets/main/what_i_work_with_ds_v2.png" width="85%" alt="Stack overview - Data, ML, APIs, UI"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ Explored Netflix data: genre trends, content types, and platform focus. Insight-
 
 <p align="left">
   <a href="mailto:sk1919284@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-kumar-jha-69b4161b4"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Shubham1919284"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
