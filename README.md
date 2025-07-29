@@ -12,15 +12,6 @@
 
 ---
 
-## 🔗 Live Demos
-🚀 Try my projects live:  
-- 🤖 **Chatbot App** → [Live Demo](https://chatbot-sk.streamlit.app/)  
-- 🎬 **Movie Recommendation** → [Live Demo](https://movierecommendation-sk.streamlit.app/)  
-- 📰 **News Teller** → [Live Demo](https://newsteller-sk.streamlit.app/)  
-- 🌦 **Weather Teller** → [Live Demo](https://weatherteller-sk.streamlit.app/)  
-
----
-
 ## 👨‍💻 About Me
 - 🎓 Final-year **B.Tech in CSE (Data Science)** at Gulzar Group of Institutes (PTU)  
 - 📊 Passionate about **data analytics, automation, and AI-powered tools**  
@@ -33,32 +24,36 @@
 
 ## 💼 Featured Projects
 
-### 🤖 [DeepSeek Chat – Streamlit UI](https://github.com/Shubham1919284/deepseek-streamlit-chat)
-Modern **ChatGPT-style chatbot UI** powered by DeepSeek API.  
+### 🤖 DeepSeek Chat – Streamlit UI  
+A sleek **ChatGPT-style chatbot UI** powered by **DeepSeek API** with modern features.  
+**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/deepseek-streamlit-chat) | **Live Demo:** [Try It](https://chatbot-sk.streamlit.app/)  
 ✅ Avatars & Markdown | ✅ Dark/Light Mode | ✅ Download Chat History  
 
 ---
 
-### 🌦 [SkyCast – Smart Weather Assistant](https://github.com/Shubham1919284/skycast)
+### 🌦 SkyCast – Smart Weather Assistant  
 Voice-enabled **Flask + Streamlit app** providing **3-day forecasts, AQI, and alerts**.  
+**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/skycast) | **Live Demo:** [Try It](https://weatherteller-sk.streamlit.app/)  
 ✅ Real-time weather API | ✅ Responsive UI  
 
 ---
 
-### 📰 [News Teller (Smart News Digest)](https://github.com/Shubham1919284/News_Teller)
-Summarizes **Indian news headlines** with category filters.  
-✅ Uses **NLP for summarization** | ✅ Minimal UI  
+### 📰 News Teller (Smart News Digest)  
+Summarizes **Indian news headlines** with category filters and NLP summarization.  
+**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/News_Teller) | **Live Demo:** [Try It](https://newsteller-sk.streamlit.app/)  
 
 ---
 
-### 🎬 [Dynamic Movie Recommendation System](https://github.com/Shubham1919284/Dynamic-Movie-Recommendation-System)
-Real-time **movie recommendation app** using **Flask + TMDB API**.  
+### 🎬 Dynamic Movie Recommendation System  
+A **real-time movie recommender** using **Flask + TMDB API**, prioritizing sequels & new releases.  
+**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/Dynamic-Movie-Recommendation-System) | **Live Demo:** [Try It](https://movierecommendation-sk.streamlit.app/)  
 ✅ Dynamic search | ✅ Sequels prioritized | ✅ No static dataset  
 
 ---
 
-### 📉 [Telecom Churn Analysis (EDA)](https://github.com/Shubham1919284/Telecom-Churn-Analysis)
-Uncovered churn patterns using **EDA, Pandas, and Seaborn**.  
+### 📉 Telecom Churn Analysis (EDA)  
+Performed **Exploratory Data Analysis** to uncover churn patterns using **Pandas & Seaborn**.  
+**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/Telecom-Churn-Analysis)  
 
 ---
 
