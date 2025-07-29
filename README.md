@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jha</h1>
 <h3 align="center">🚀 Data Analyst | Python Developer | AI & Automation Enthusiast</h3>
 
@@ -18,8 +17,8 @@
 - 📊 Passionate about **data analytics, automation, and AI-powered tools**  
 - 💡 Love building **real-world, product-like solutions**  
 - 🧠 Exploring **LLMs and NLP-driven applications**  
+- 🌐 **Portfolio:** [Click Here](https://shubham1919284.github.io/Portfolio/)  
 - 📫 Reach me at: **sk1919284@gmail.com**  
-- 🔗 **Portfolio:** *Coming Soon*
 
 ---
 
@@ -36,7 +35,6 @@
 ### 🌦 [SkyCast – Smart Weather Assistant](https://github.com/Shubham1919284/skycast)
 Voice-enabled Flask app providing **3-day forecasts, AQI, and alerts**.  
 ✅ Real-time weather API | ✅ Responsive UI  
-🔗 *[Live Demo](#)* *(Deploy on Streamlit/Render for bonus points!)*  
 
 ---
 
@@ -56,23 +54,28 @@ Uncovered churn patterns using **EDA, Pandas, and Seaborn**.
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,streamlit,mysql,git,html,css,js" height="40" />
-  <br>
+## 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-16A085?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
-## 🏆 Certifications
-- 🏅 **Google Data Analytics Professional Certificate** *(Coursera)*  
-- 🏅 **Python for Data Science** *(Coursera)*  
-*(Add real ones you have!)*  
+## 🏆 Licenses & Certifications
+- 🏅 **Data Analysis with Python** – *freeCodeCamp*  
+  *Issued: Jul 2025 | Credential ID: shubham_kumar_jha-dawp*  
+- 🏅 **Machine Learning with Python** – *freeCodeCamp*  
+  *Issued: Jul 2025 | Credential ID: shubham_kumar_jha-mlwp*  
 
 ---
 
