@@ -3,10 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/Shubham1919284/Shubham1919284/raw/main/Shubham_Resume.pdf" target="_blank">
-<a href="https://drive.google.com/file/d/1yAZAmtbdaEZBUVND5y87spD0QO3PgYc4/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1yAZAmtbdaEZBUVND5y87spD0QO3PgYc4/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge&logo=googledrive" alt="Resume" />
-</a>
   </a>
 </p>
 
@@ -24,14 +22,6 @@
 
 ---
 
-## 🚀 Key Highlights
-✔ Built **5+ data analytics dashboards** for real-world datasets  
-✔ Developed **voice-enabled weather app** with live AQI updates  
-✔ Created **NLP-based news summarizer** for Indian news  
-✔ Hands-on with **APIs, Flask, Streamlit, and deployment tools**  
-
----
-
 ## 💼 Featured Projects
 
 ### 🌦 [SkyCast – Smart Weather Assistant](https://github.com/Shubham1919284/skycast)
@@ -46,8 +36,9 @@ Summarizes **Indian news headlines** with category filters.
 
 ---
 
-### 🎬 [Movie Recommendation System](https://github.com/Shubham1919284/Dynamic_Movie_Recommendation_System)  
-TMDB-powered Flask app recommending movies using **cosine similarity**.  
+### 🎬 [Dynamic Movie Recommendation System](https://github.com/Shubham1919284/Dynamic-Movie-Recommendation-System)
+Real-time movie recommendation app using **Flask + TMDB API**.  
+✅ Dynamic search | ✅ Sequels prioritized | ✅ No static dataset  
 
 ---
 
@@ -57,9 +48,6 @@ Uncovered churn patterns using **EDA, Pandas, and Seaborn**.
 ---
 
 ## 🛠 Tech Stack & Tools
-
-## 🛠 Tech Stack & Tools
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></a>
@@ -70,10 +58,10 @@ Uncovered churn patterns using **EDA, Pandas, and Seaborn**.
   <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
 </p>
-
 
 ---
 
@@ -84,13 +72,12 @@ Uncovered churn patterns using **EDA, Pandas, and Seaborn**.
 - 🏅 [Machine Learning with Python](https://www.freecodecamp.org/certification/shubham_kumar_jha/machine-learning-with-python-v8) – *freeCodeCamp*  
   *Issued: Jul 2025 | Credential ID: shubham_kumar_jha-mlwp*  
 
-
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
