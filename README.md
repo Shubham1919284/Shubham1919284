@@ -78,3 +78,67 @@ Explored Netflix data: genre trends, content types, and platform focus. Insight-
 ---
 
 ⭐ *Thanks for visiting! Whether it’s analytics, APIs, or automation — I’m excited to build smart, useful tools. Let’s connect and grow together.* 💡
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Hi there, I'm Shubham 👋
+
+### 🚀 About Me
+- 🔭 I’m currently working on **Python, AI, and Web Development**
+- 🌱 I’m learning **Machine Learning & Cloud Technologies**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, JavaScript, and GitHub**
+- ⚡ Fun fact: I love automating things to save time!
+
+---
+
+### 📊 GitHub Stats
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubham1919284&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+### 📌 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 Achievements (Badges)
+![Followers](https://img.shields.io/github/followers/Shubham1919284?label=Followers&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Shubham1919284?label=Stars&style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-2025-brightgreen?style=for-the-badge)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO)
+
+---
+
+⭐ **From [Shubham1919284](https://github.com/Shubham1919284)**
+
