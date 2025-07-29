@@ -58,26 +58,32 @@ Uncovered churn patterns using **EDA, Pandas, and Seaborn**.
 
 ## 🛠 Tech Stack & Tools
 
+## 🛠 Tech Stack & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-16A085?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-16A085?style=flat&logo=python&logoColor=white" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
+  <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
 </p>
+
 
 ---
 
 ## 🏆 Licenses & Certifications
-- 🏅 **Data Analysis with Python** – *freeCodeCamp*  
+- 🏅 [Data Analysis with Python](https://www.freecodecamp.org/certification/shubham_kumar_jha/data-analysis-with-python-v7) – *freeCodeCamp*  
   *Issued: Jul 2025 | Credential ID: shubham_kumar_jha-dawp*  
-- 🏅 **Machine Learning with Python** – *freeCodeCamp*  
+
+- 🏅 [Machine Learning with Python](https://www.freecodecamp.org/certification/shubham_kumar_jha/machine-learning-with-python-v8) – *freeCodeCamp*  
   *Issued: Jul 2025 | Credential ID: shubham_kumar_jha-mlwp*  
+
 
 ---
 
