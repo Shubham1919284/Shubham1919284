@@ -12,6 +12,15 @@
 
 ---
 
+## 🔗 Live Demos
+🚀 Try my projects live:  
+- 🤖 **Chatbot App** → [Live Demo](https://chatbot-sk.streamlit.app/)  
+- 🎬 **Movie Recommendation** → [Live Demo](https://movierecommendation-sk.streamlit.app/)  
+- 📰 **News Teller** → [Live Demo](https://newsteller-sk.streamlit.app/)  
+- 🌦 **Weather Teller** → [Live Demo](https://weatherteller-sk.streamlit.app/)  
+
+---
+
 ## 👨‍💻 About Me
 - 🎓 Final-year **B.Tech in CSE (Data Science)** at Gulzar Group of Institutes (PTU)  
 - 📊 Passionate about **data analytics, automation, and AI-powered tools**  
@@ -24,27 +33,32 @@
 
 ## 💼 Featured Projects
 
-### 🤖 [DeepSeek Chat – Streamlit UI](https://chatbot-sk.streamlit.app/)
+### 🤖 [DeepSeek Chat – Streamlit UI](https://github.com/Shubham1919284/deepseek-streamlit-chat)
 Modern **ChatGPT-style chatbot UI** powered by DeepSeek API.  
 ✅ Avatars & Markdown | ✅ Dark/Light Mode | ✅ Download Chat History  
 
 ---
 
-### 🌦 [SkyCast – Smart Weather Assistant](https://weatherteller-sk.streamlit.app/)
+### 🌦 [SkyCast – Smart Weather Assistant](https://github.com/Shubham1919284/skycast)
 Voice-enabled **Flask + Streamlit app** providing **3-day forecasts, AQI, and alerts**.  
 ✅ Real-time weather API | ✅ Responsive UI  
 
 ---
 
-### 📰 [News Teller (Smart News Digest)](https://newsteller-sk.streamlit.app/)
+### 📰 [News Teller (Smart News Digest)](https://github.com/Shubham1919284/News_Teller)
 Summarizes **Indian news headlines** with category filters.  
 ✅ Uses **NLP for summarization** | ✅ Minimal UI  
 
 ---
 
-### 🎬 [Dynamic Movie Recommendation System](https://movierecommendation-sk.streamlit.app/)
+### 🎬 [Dynamic Movie Recommendation System](https://github.com/Shubham1919284/Dynamic-Movie-Recommendation-System)
 Real-time **movie recommendation app** using **Flask + TMDB API**.  
 ✅ Dynamic search | ✅ Sequels prioritized | ✅ No static dataset  
+
+---
+
+### 📉 [Telecom Churn Analysis (EDA)](https://github.com/Shubham1919284/Telecom-Churn-Analysis)
+Uncovered churn patterns using **EDA, Pandas, and Seaborn**.  
 
 ---
 
