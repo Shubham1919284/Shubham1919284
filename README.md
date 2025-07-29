@@ -26,7 +26,7 @@
 
 ### 🤖 DeepSeek Chat – Streamlit UI  
 A sleek **ChatGPT-style chatbot UI** powered by **DeepSeek API** with modern features.  
-**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/deepseek-streamlit-chat) | **Live Demo:** [Try It](https://chatbot-sk.streamlit.app/)  
+**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/ChatBot) | **Live Demo:** [Try It](https://chatbot-sk.streamlit.app/)  
 ✅ Avatars & Markdown | ✅ Dark/Light Mode | ✅ Download Chat History  
 
 ---
@@ -46,7 +46,7 @@ Summarizes **Indian news headlines** with category filters and NLP summarization
 
 ### 🎬 Dynamic Movie Recommendation System  
 A **real-time movie recommender** using **Flask + TMDB API**, prioritizing sequels & new releases.  
-**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/Dynamic-Movie-Recommendation-System) | **Live Demo:** [Try It](https://movierecommendation-sk.streamlit.app/)  
+**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/Movie_Recommendation_System) | **Live Demo:** [Try It](https://movierecommendation-sk.streamlit.app/)  
 ✅ Dynamic search | ✅ Sequels prioritized | ✅ No static dataset  
 
 ---
