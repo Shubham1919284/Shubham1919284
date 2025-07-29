@@ -24,26 +24,27 @@
 
 ## 💼 Featured Projects
 
-### 🌦 [SkyCast – Smart Weather Assistant](https://github.com/Shubham1919284/skycast)
-Voice-enabled Flask app providing **3-day forecasts, AQI, and alerts**.  
+### 🤖 [DeepSeek Chat – Streamlit UI](https://chatbot-sk.streamlit.app/)
+Modern **ChatGPT-style chatbot UI** powered by DeepSeek API.  
+✅ Avatars & Markdown | ✅ Dark/Light Mode | ✅ Download Chat History  
+
+---
+
+### 🌦 [SkyCast – Smart Weather Assistant](https://weatherteller-sk.streamlit.app/)
+Voice-enabled **Flask + Streamlit app** providing **3-day forecasts, AQI, and alerts**.  
 ✅ Real-time weather API | ✅ Responsive UI  
 
 ---
 
-### 📰 [News Teller (Smart News Digest)](https://github.com/Shubham1919284/News_Teller)  
+### 📰 [News Teller (Smart News Digest)](https://newsteller-sk.streamlit.app/)
 Summarizes **Indian news headlines** with category filters.  
 ✅ Uses **NLP for summarization** | ✅ Minimal UI  
 
 ---
 
-### 🎬 [Dynamic Movie Recommendation System](https://github.com/Shubham1919284/Dynamic-Movie-Recommendation-System)
-Real-time movie recommendation app using **Flask + TMDB API**.  
+### 🎬 [Dynamic Movie Recommendation System](https://movierecommendation-sk.streamlit.app/)
+Real-time **movie recommendation app** using **Flask + TMDB API**.  
 ✅ Dynamic search | ✅ Sequels prioritized | ✅ No static dataset  
-
----
-
-### 📉 [Telecom Churn Analysis (EDA)](https://github.com/Shubham1919284/Telecom-Churn-Analysis)  
-Uncovered churn patterns using **EDA, Pandas, and Seaborn**.  
 
 ---
 
@@ -58,7 +59,6 @@ Uncovered churn patterns using **EDA, Pandas, and Seaborn**.
   <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
 </p>
