@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Jha</h1>
 <h3 align="center">🚀 Data Analyst | Python Developer | AI & Automation Enthusiast</h3>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
   <a href="https://drive.google.com/file/d/1yAZAmtbdaEZBUVND5y87spD0QO3PgYc4/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge&logo=googledrive" alt="Resume" />
