@@ -106,3 +106,8 @@ Performed **Exploratory Data Analysis** to uncover churn patterns using **Pandas
 ---
 
 ⭐ *Thanks for visiting! Let’s connect and build something amazing together.* 🚀
+
+## 📈 GitHub Activity
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham1919284&theme=github_dark)
+
+
