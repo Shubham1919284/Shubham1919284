@@ -105,4 +105,4 @@ Performed **Exploratory Data Analysis** to uncover churn patterns using **Pandas
 
 ---
 
-⭐ *Thanks for visiting! Let’s connect and build something amazing together.* 🚀as
+⭐ *Thanks for visiting! Let’s connect and build something amazing together.* 🚀
