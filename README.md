@@ -1,5 +1,8 @@
 <h1 align="center">Shubham Kumar Jha</h1>
-<h3 align="center">Data Analyst & AI/ML Developer — turning messy data and APIs into real, working products</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI%2FML+Developer;Building+real%2C+deployed+ML+%26+AI+products;Open+to+Data%2FML%2FGenAI+roles" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1yAZAmtbdaEZBUVND5y87spD0QO3PgYc4/view?usp=sharing">📄 Resume</a> ·
@@ -66,10 +69,22 @@ Real-time recommender pulling live data from TMDB instead of a static dataset, w
 
 ## 🛠 Tech Stack
 
-**Languages:** Python · SQL · C++
-**ML/Data:** Pandas · Scikit-learn · XGBoost · Seaborn · Plotly
-**Web/AI:** React · TypeScript · Node.js · Flask · Streamlit · Gemini API
-**Infra:** Firebase · Railway · Git/GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,flask,firebase,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham1919284&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -80,3 +95,10 @@ Real-time recommender pulling live data from TMDB instead of a static dataset, w
 - **Portfolio:** [shubham1919284.github.io/Portfolio](https://shubham1919284.github.io/Portfolio/)
 
 Open to Data Analyst, ML, and GenAI roles — and happy to chat about freelance or remote opportunities too.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham1919284/Shubham1919284/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Shubham1919284/Shubham1919284/output/github-snake.svg" alt="Snake animation" />
+  </picture>
+</p>
