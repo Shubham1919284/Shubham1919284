@@ -1,108 +1,82 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar Jha</h1>
-<h3 align="center">🚀 Data Analyst | Python Developer | AI & Automation Enthusiast</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Shubham1919284&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-  <a href="https://drive.google.com/file/d/1yAZAmtbdaEZBUVND5y87spD0QO3PgYc4/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge&logo=googledrive" alt="Resume" />
-  </a>
-</p>
-
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
----
-
-## 👨‍💻 About Me
-- 🎓 Final-year **B.Tech in CSE (Data Science)** at Gulzar Group of Institutes (PTU)  
-- 📊 Passionate about **data analytics, automation, and AI-powered tools**  
-- 💡 Love building **real-world, product-like solutions**  
-- 🧠 Exploring **LLMs and NLP-driven applications**  
-- 🌐 **Portfolio:** [Click Here](https://shubham1919284.github.io/Portfolio/)  
-- 📫 Reach me at: **sk1919284@gmail.com**  
-
----
-
-## 💼 Featured Projects
-
-### 🤖 DeepSeek Chat – Streamlit UI  
-A sleek **ChatGPT-style chatbot UI** powered by **DeepSeek API** with modern features.  
-**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/ChatBot) | **Live Demo:** [Try It](https://chatbot-sk.streamlit.app/)  
-✅ Avatars & Markdown | ✅ Dark/Light Mode | ✅ Download Chat History  
-
----
-
-### 🌦 SkyCast – Smart Weather Assistant  
-Voice-enabled **Flask + Streamlit app** providing **3-day forecasts, AQI, and alerts**.  
-**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/skycast) | **Live Demo:** [Try It](https://weatherteller-sk.streamlit.app/)  
-✅ Real-time weather API | ✅ Responsive UI  
-
----
-
-### 📰 News Teller (Smart News Digest)  
-Summarizes **Indian news headlines** with category filters and NLP summarization.  
-**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/News_Teller) | **Live Demo:** [Try It](https://newsteller-sk.streamlit.app/)  
-
----
-
-### 🎬 Dynamic Movie Recommendation System  
-A **real-time movie recommender** using **Flask + TMDB API**, prioritizing sequels & new releases.  
-**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/Movie_Recommendation_System) | **Live Demo:** [Try It](https://movierecommendation-sk.streamlit.app/)  
-✅ Dynamic search | ✅ Sequels prioritized | ✅ No static dataset  
-
----
-
-### 📉 Telecom Churn Analysis (EDA)  
-Performed **Exploratory Data Analysis** to uncover churn patterns using **Pandas & Seaborn**.  
-**GitHub Repo:** [Click Here](https://github.com/Shubham1919284/Telecom-Churn-Analysis)  
-
----
-
-## 🛠 Tech Stack & Tools
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-16A085?style=flat&logo=python&logoColor=white" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" /></a>
-  <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-D11A47?style=flat&logo=plotly&logoColor=white" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /></a>
-</p>
-
----
-
-## 🏆 Licenses & Certifications
-- 🏅 [Data Analysis with Python](https://www.freecodecamp.org/certification/shubham_kumar_jha/data-analysis-with-python-v7) – *freeCodeCamp*  
-  *Issued: Jul 2025 | Credential ID: shubham_kumar_jha-dawp*  
-
-- 🏅 [Machine Learning with Python](https://www.freecodecamp.org/certification/shubham_kumar_jha/machine-learning-with-python-v8) – *freeCodeCamp*  
-  *Issued: Jul 2025 | Credential ID: shubham_kumar_jha-mlwp*  
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&theme=tokyonight" height="160"/>
-</p>
+<h1 align="center">Shubham Kumar Jha</h1>
+<h3 align="center">Data Analyst & AI/ML Developer — turning messy data and APIs into real, working products</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubham1919284&theme=tokyonight" height="160"/>
+  <a href="https://drive.google.com/file/d/1yAZAmtbdaEZBUVND5y87spD0QO3PgYc4/view?usp=sharing">📄 Resume</a> ·
+  <a href="https://shubham1919284.github.io/Portfolio/">🌐 Portfolio</a> ·
+  <a href="mailto:sk1919284@gmail.com">✉️ Email</a> ·
+  <a href="https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:sk1919284@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Shubham1919284"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_shubham_kumar_jha/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+### Who I am
+
+Final-year B.Tech CSE (Data Science) student who'd rather ship something real than just read about it. I build ML models, full-stack AI tools, and automation pipelines — then actually deploy them instead of leaving them in a notebook.
+
+I've also worked remotely as an **AI Trainer / NLP Prompt Evaluator at Outlier**, evaluating and refining model outputs — so I've seen how these systems get built and judged from the inside, not just from tutorials.
+
+Right now I'm looking for **Data Analyst, ML, and GenAI roles** — open to internships, full-time opportunities, and remote/freelance work.
+
+### What I can do
+
+- **Machine Learning** — model building, evaluation, deployment (XGBoost, scikit-learn)
+- **Data Analysis** — EDA, pattern-finding, visualization (Pandas, Seaborn, Plotly)
+- **AI/LLM Engineering** — building on Gemini/LLM APIs, prompt evaluation, multi-agent pipelines
+- **Full-Stack Development** — React/TypeScript frontends, Node/Express backends, Firebase
+- **Automation** — Flask/Streamlit apps, cron-driven pipelines, API integrations
 
 ---
 
-⭐ *Thanks for visiting! Let’s connect and build something amazing together.* 🚀
+## 🔨 What I'm building right now
+
+**NeuralBrief** — a full-stack AI news digest platform with four sequential agents (Scraper → Filter → Summarizer → Email), running on a cron-triggered pipeline.
+`React/TypeScript` `Node/Express` `Firebase` `Gemini API` — deployed on Railway, delivering real digest emails end-to-end.
+
+---
+
+## 🏆 Top Projects
+
+### 📊 Black Friday Purchase Prediction
+ML model predicting customer purchase amounts, trained on 550K+ records.
+**XGBoost · R² = 0.6712 · deployed on Streamlit**
+[Repo →](https://github.com/Shubham1919284)
+
+### 📉 Telecom Customer Churn Analysis
+End-to-end EDA uncovering the strongest drivers behind customer churn — contract type, tenure, and monthly charges stood out as the biggest red flags.
+**Python · Pandas · Seaborn**
+[Repo →](https://github.com/Shubham1919284/Telecom-Churn-Analysis)
+
+### 🤖 DeepSeek Chat — AI Chat Interface
+ChatGPT-style chatbot UI built on the DeepSeek API, with markdown rendering, chat history export, and theme support.
+**Flask · Streamlit**
+[Repo →](https://github.com/Shubham1919284/ChatBot) · [Live Demo →](https://chatbot-sk.streamlit.app/)
+
+### 🌦 SkyCast — Smart Weather Assistant
+Voice-enabled weather assistant with 3-day forecasts, AQI tracking, and alerts.
+**Flask · Streamlit**
+[Repo →](https://github.com/Shubham1919284/skycast) · [Live Demo →](https://weatherteller-sk.streamlit.app/)
+
+### 🎬 Dynamic Movie Recommendation System
+Real-time recommender pulling live data from TMDB instead of a static dataset, with sequels prioritized in results.
+**Flask · TMDB API**
+[Repo →](https://github.com/Shubham1919284/Movie_Recommendation_System) · [Live Demo →](https://movierecommendation-sk.streamlit.app/)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · SQL · C++
+**ML/Data:** Pandas · Scikit-learn · XGBoost · Seaborn · Plotly
+**Web/AI:** React · TypeScript · Node.js · Flask · Streamlit · Gemini API
+**Infra:** Firebase · Railway · Git/GitHub
+
+---
+
+## 📫 Best way to reach me
+
+- **Email:** sk1919284@gmail.com
+- **LinkedIn:** [shubham-kumar-jha](https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c)
+- **Portfolio:** [shubham1919284.github.io/Portfolio](https://shubham1919284.github.io/Portfolio/)
+
+Open to Data Analyst, ML, and GenAI roles — and happy to chat about freelance or remote opportunities too.
