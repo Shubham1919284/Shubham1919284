@@ -15,7 +15,7 @@
 
 ### Who I am
 
-Final-year B.Tech CSE (Data Science) student who'd rather ship something real than just read about it. I build ML models, full-stack AI tools, and automation pipelines — then actually deploy them instead of leaving them in a notebook.
+Final-year B.Tech CSE (Data Science) student who'd rather ship something real than just read about it. I build ML models, data dashboards, and Python-based tools — then actually deploy them instead of leaving them in a notebook.
 
 I've also worked remotely as an **AI Trainer / NLP Prompt Evaluator at Outlier**, evaluating and refining model outputs — so I've seen how these systems get built and judged from the inside, not just from tutorials.
 
@@ -25,16 +25,9 @@ Right now I'm looking for **Data Analyst, ML, and GenAI roles** — open to inte
 
 - **Machine Learning** — model building, evaluation, deployment (XGBoost, scikit-learn)
 - **Data Analysis** — EDA, pattern-finding, visualization (Pandas, Seaborn, Plotly)
-- **AI/LLM Engineering** — building on Gemini/LLM APIs, prompt evaluation, multi-agent pipelines
-- **Full-Stack Development** — React/TypeScript frontends, Node/Express backends, Firebase
-- **Automation** — Flask/Streamlit apps, cron-driven pipelines, API integrations
-
----
-
-## 🔨 What I'm building right now
-
-**NeuralBrief** — a full-stack AI news digest platform with four sequential agents (Scraper → Filter → Summarizer → Email), running on a cron-triggered pipeline.
-`React/TypeScript` `Node/Express` `Firebase` `Gemini API` — deployed on Railway, delivering real digest emails end-to-end.
+- **Business Intelligence** — interactive dashboards (Power BI)
+- **AI/LLM Tools** — building on LLM APIs, prompt evaluation
+- **Automation** — Flask/Streamlit apps, API integrations
 
 ---
 
@@ -43,34 +36,56 @@ Right now I'm looking for **Data Analyst, ML, and GenAI roles** — open to inte
 ### 📊 Black Friday Purchase Prediction
 ML model predicting customer purchase amounts, trained on 550K+ records.
 **XGBoost · R² = 0.6712 · deployed on Streamlit**
-[Repo →](https://github.com/Shubham1919284)
+[Repo →](https://github.com/Shubham1919284/black-friday-purchase-prediction)
 
-### 📉 Telecom Customer Churn Analysis
-End-to-end EDA uncovering the strongest drivers behind customer churn — contract type, tenure, and monthly charges stood out as the biggest red flags.
-**Python · Pandas · Seaborn**
-[Repo →](https://github.com/Shubham1919284/Telecom-Churn-Analysis)
+### 📉 Telecom Customer Churn — Analysis & Dashboard
+End-to-end churn analysis built two ways: a Python EDA notebook uncovering the strongest churn drivers (contract type, tenure, monthly charges), plus a Power BI dashboard for the same dataset to visualize and present those findings interactively.
+**Python · Pandas · Seaborn · Power BI**
+[EDA Repo →](https://github.com/Shubham1919284/Telecom-Churn-Analysis) · [Dashboard Repo →](https://github.com/Shubham1919284/Telecom-Churn-Dashboard)
 
-### 🤖 DeepSeek Chat — AI Chat Interface
-ChatGPT-style chatbot UI built on the DeepSeek API, with markdown rendering, chat history export, and theme support.
-**Flask · Streamlit**
-[Repo →](https://github.com/Shubham1919284/ChatBot) · [Live Demo →](https://chatbot-sk.streamlit.app/)
+### 🩺 Diabetes Prediction System
+Classification model predicting diabetes risk from patient health metrics.
+**Python · Scikit-learn · Jupyter**
+[Repo →](https://github.com/Shubham1919284/-Diabetes-Prediction-System)
 
-### 🌦 SkyCast — Smart Weather Assistant
-Voice-enabled weather assistant with 3-day forecasts, AQI tracking, and alerts.
-**Flask · Streamlit**
-[Repo →](https://github.com/Shubham1919284/skycast) · [Live Demo →](https://weatherteller-sk.streamlit.app/)
+### 📚 Book Recommendation System
+Recommender system suggesting books based on user preferences and similarity scoring.
+**Python · Scikit-learn**
+[Repo →](https://github.com/Shubham1919284/Book-Recommendation-System)
 
-### 🎬 Dynamic Movie Recommendation System
-Real-time recommender pulling live data from TMDB instead of a static dataset, with sequels prioritized in results.
-**Flask · TMDB API**
-[Repo →](https://github.com/Shubham1919284/Movie_Recommendation_System) · [Live Demo →](https://movierecommendation-sk.streamlit.app/)
+### 🎵 Spotify Top 50 Analysis
+Analysis of Spotify's Top 50 Global dataset, digging into trends across popularity, artists, and song attributes.
+**Python · Pandas · Data Visualization**
+[Repo →](https://github.com/Shubham1919284/Spotify_Analysis)
+
+### 🎬 Netflix Content Analysis
+Exploratory analysis of Netflix's content library — genres, release patterns, and content trends.
+**Python · Pandas · Jupyter Notebook**
+[Repo →](https://github.com/Shubham1919284/Netflix_Content_Analysis)
+
+### 🤖 ChatBot — AI Chat Interface
+Clean chatbot front-end with dark mode, animated message transitions, Markdown + emoji support, and a typing indicator.
+**Python · Flask**
+[Repo →](https://github.com/Shubham1919284/ChatBot)
+
+### 🌦 Skycast — Voice-Enabled Weather Assistant
+Voice-enabled weather chatbot supporting speech/text input, 3-day forecasts, AQI, and session history.
+**Python · WeatherAPI**
+[Repo →](https://github.com/Shubham1919284/Skycast)
+
+---
+
+## 📈 Business Intelligence Dashboards
+
+- **[Airlines Flight Dashboard](https://github.com/Shubham1919284/Airlines_Flight_Dashboard)** — Power BI analysis of flight performance, customer preferences, and revenue by class, time, and airline
+- **[Global Tech Layoff Dashboard](https://github.com/Shubham1919284/Global_Tech_Layoff_Dashboard)** — Power BI dashboard tracking global tech layoff trends
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,nodejs,flask,firebase,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -95,10 +110,3 @@ Real-time recommender pulling live data from TMDB instead of a static dataset, w
 - **Portfolio:** [shubham1919284.github.io/Portfolio](https://shubham1919284.github.io/Portfolio/)
 
 Open to Data Analyst, ML, and GenAI roles — and happy to chat about freelance or remote opportunities too.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubham1919284/Shubham1919284/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Shubham1919284/Shubham1919284/output/github-snake.svg" alt="Snake animation" />
-  </picture>
-</p>
