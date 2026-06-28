@@ -15,7 +15,7 @@
 
 ## 📌 Highlights
 
-- 🤖 AI Trainer at Outlier — LLM evaluation & prompt quality assessment
+- 🤖 Former AI Trainer at Outlier — LLM evaluation & prompt quality assessment
 - 📊 10+ Data Analytics, Machine Learning & BI projects, end to end
 - 📈 Worked with datasets up to 550K+ records
 - 📉 Built interactive Power BI dashboards alongside Python-based analysis
@@ -25,7 +25,7 @@
 
 ### Who I am
 
-Final-year B.Tech CSE (Data Science) student who builds and deploys real ML models and data tools — not just notebooks. Remote AI Trainer / NLP Prompt Evaluator at **Outlier**, evaluating model outputs. Currently looking for **Data Analyst, ML, and GenAI** roles — open to internships, full-time, and remote work.
+Final-year B.Tech CSE (Data Science) student who builds and deploys real ML models and data tools — not just notebooks. Previously worked as a Remote AI Trainer / NLP Prompt Evaluator at **Outlier**, evaluating model outputs. Currently looking for **Data Analyst, ML, and GenAI** roles — open to internships, full-time, and remote work.
 
 ### What I can do
 
