@@ -16,7 +16,7 @@
 ## 📌 Highlights
 
 - 🤖 AI Trainer at Outlier — LLM evaluation & prompt quality assessment
-- 📊 8+ Data Analytics & Machine Learning projects, end to end
+- 📊 10+ Data Analytics, Machine Learning & BI projects, end to end
 - 📈 Worked with datasets up to 550K+ records
 - 📉 Built interactive Power BI dashboards alongside Python-based analysis
 - 💼 Open to Data Analyst, ML & GenAI opportunities
@@ -45,20 +45,18 @@ End-to-end ML pipeline predicting customer purchase amounts during Black Friday 
 [Repo →](https://github.com/Shubham1919284/black-friday-purchase-prediction)
 
 ### 📉 Telecom Customer Churn — Analysis & Dashboard
-Churn analysis built two ways: a Python EDA notebook identifying key churn drivers (contract type, tenure, monthly charges), plus a Power BI dashboard for interactive presentation of the same findings.
+End-to-end churn analysis combining a Python EDA notebook — identifying key churn drivers like contract type, tenure, and monthly charges — with an interactive Power BI dashboard for business reporting.
 **Tech:** Python · Pandas · Seaborn · Power BI
 [EDA Repo →](https://github.com/Shubham1919284/Telecom-Churn-Analysis) · [Dashboard Repo →](https://github.com/Shubham1919284/Telecom-Churn-Dashboard)
 
 ### 🩺 Diabetes Prediction System
 Classification model predicting diabetes risk from patient health metrics.
 **Tech:** Python · Scikit-learn · Jupyter
-<!-- TODO: add accuracy/F1 score here once confirmed -->
 [Repo →](https://github.com/Shubham1919284/-Diabetes-Prediction-System)
 
 ### 📚 Book Recommendation System
 Recommender system suggesting books based on similarity scoring.
 **Tech:** Python · Scikit-learn
-<!-- TODO: add dataset size / number of books here once confirmed -->
 [Repo →](https://github.com/Shubham1919284/Book-Recommendation-System)
 
 ### 🎵 Spotify Top 50 Analysis
@@ -69,7 +67,6 @@ Analysis of Spotify's Top 50 Global dataset — trends across popularity, artist
 ### 🎬 Netflix Content Analysis
 Exploratory analysis of Netflix's content library — genres, release patterns, and content trends.
 **Tech:** Python · Pandas · Jupyter Notebook
-<!-- TODO: add title count / number of visualizations once confirmed -->
 [Repo →](https://github.com/Shubham1919284/Netflix_Content_Analysis)
 
 ### 🤖 ChatBot — AI Chat Interface
@@ -97,9 +94,10 @@ Voice-enabled weather chatbot — speech/text input, 3-day forecasts, AQI, sessi
   <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,git,github,vscode" />
 </p>
 
-**Data & ML:** Pandas · NumPy · Scikit-learn · XGBoost · Seaborn · Jupyter
-**BI & Visualization:** Power BI · Plotly
 **Languages:** Python · SQL · C++
+**Machine Learning:** Scikit-learn · XGBoost · Pandas · NumPy
+**Visualization & BI:** Power BI · Plotly · Seaborn
+**Development & Tools:** Flask · Streamlit · Jupyter · Git · GitHub · VS Code
 
 ---
 
