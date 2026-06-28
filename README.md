@@ -51,6 +51,7 @@ End-to-end churn analysis combining a Python EDA notebook — identifying key ch
 
 ### 🩺 Diabetes Prediction System
 Classification model predicting diabetes risk from patient health metrics.
+**Dataset:** PIMA Indians Diabetes dataset, 768 records · **Result:** SVM (linear kernel), test accuracy = 77.27%
 **Tech:** Python · Scikit-learn · Jupyter
 [Repo →](https://github.com/Shubham1919284/-Diabetes-Prediction-System)
 
@@ -65,8 +66,9 @@ Analysis of Spotify's Top 50 Global dataset — trends across popularity, artist
 [Repo →](https://github.com/Shubham1919284/Spotify_Analysis)
 
 ### 🎬 Netflix Content Analysis
-Exploratory analysis of Netflix's content library — genres, release patterns, and content trends.
-**Tech:** Python · Pandas · Jupyter Notebook
+EDA on a 9,800+ title movie dataset — genre distribution, vote-average categorization (popular/average/below-average/not-popular), and release-year trends from 1902 to 2024.
+**Dataset:** 9,837 titles, 19 unique genres · **Top genres:** Drama, Comedy, Action
+**Tech:** Python · Pandas · Seaborn · Jupyter Notebook
 [Repo →](https://github.com/Shubham1919284/Netflix_Content_Analysis)
 
 ### 🤖 ChatBot — AI Chat Interface
