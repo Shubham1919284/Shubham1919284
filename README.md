@@ -13,20 +13,26 @@
 
 ---
 
+## 📌 Highlights
+
+- 🤖 AI Trainer at Outlier — LLM evaluation & prompt quality assessment
+- 📊 8+ Data Analytics & Machine Learning projects, end to end
+- 📈 Worked with datasets up to 550K+ records
+- 📉 Built interactive Power BI dashboards alongside Python-based analysis
+- 💼 Open to Data Analyst, ML & GenAI opportunities
+
+---
+
 ### Who I am
 
-Final-year B.Tech CSE (Data Science) student who'd rather ship something real than just read about it. I build ML models, data dashboards, and Python-based tools — then actually deploy them instead of leaving them in a notebook.
-
-I've also worked remotely as an **AI Trainer / NLP Prompt Evaluator at Outlier**, evaluating and refining model outputs — so I've seen how these systems get built and judged from the inside, not just from tutorials.
-
-Right now I'm looking for **Data Analyst, ML, and GenAI roles** — open to internships, full-time opportunities, and remote/freelance work.
+Final-year B.Tech CSE (Data Science) student who builds and deploys real ML models and data tools — not just notebooks. Remote AI Trainer / NLP Prompt Evaluator at **Outlier**, evaluating model outputs. Currently looking for **Data Analyst, ML, and GenAI** roles — open to internships, full-time, and remote work.
 
 ### What I can do
 
-- **Machine Learning** — model building, evaluation, deployment (XGBoost, scikit-learn)
-- **Data Analysis** — EDA, pattern-finding, visualization (Pandas, Seaborn, Plotly)
+- **Machine Learning** — model building & deployment (XGBoost, scikit-learn)
+- **Data Analysis** — EDA & visualization (Pandas, NumPy, Seaborn, Plotly)
 - **Business Intelligence** — interactive dashboards (Power BI)
-- **AI/LLM Tools** — building on LLM APIs, prompt evaluation
+- **AI/LLM Tools** — LLM APIs, prompt evaluation
 - **Automation** — Flask/Streamlit apps, API integrations
 
 ---
@@ -34,43 +40,46 @@ Right now I'm looking for **Data Analyst, ML, and GenAI roles** — open to inte
 ## 🏆 Top Projects
 
 ### 📊 Black Friday Purchase Prediction
-ML model predicting customer purchase amounts, trained on 550K+ records.
-**XGBoost · R² = 0.6712 · deployed on Streamlit**
+End-to-end ML pipeline predicting customer purchase amounts during Black Friday sales — EDA, feature engineering, model comparison, and a real-time Streamlit app for instant predictions.
+**Dataset:** 550,000+ records (Kaggle) · **Result:** XGBoost outperformed Linear/Ridge/Lasso/Random Forest — R² = 0.6712, RMSE = 2878.57 · **Deployed:** Streamlit
 [Repo →](https://github.com/Shubham1919284/black-friday-purchase-prediction)
 
 ### 📉 Telecom Customer Churn — Analysis & Dashboard
-End-to-end churn analysis built two ways: a Python EDA notebook uncovering the strongest churn drivers (contract type, tenure, monthly charges), plus a Power BI dashboard for the same dataset to visualize and present those findings interactively.
-**Python · Pandas · Seaborn · Power BI**
+Churn analysis built two ways: a Python EDA notebook identifying key churn drivers (contract type, tenure, monthly charges), plus a Power BI dashboard for interactive presentation of the same findings.
+**Tech:** Python · Pandas · Seaborn · Power BI
 [EDA Repo →](https://github.com/Shubham1919284/Telecom-Churn-Analysis) · [Dashboard Repo →](https://github.com/Shubham1919284/Telecom-Churn-Dashboard)
 
 ### 🩺 Diabetes Prediction System
 Classification model predicting diabetes risk from patient health metrics.
-**Python · Scikit-learn · Jupyter**
+**Tech:** Python · Scikit-learn · Jupyter
+<!-- TODO: add accuracy/F1 score here once confirmed -->
 [Repo →](https://github.com/Shubham1919284/-Diabetes-Prediction-System)
 
 ### 📚 Book Recommendation System
-Recommender system suggesting books based on user preferences and similarity scoring.
-**Python · Scikit-learn**
+Recommender system suggesting books based on similarity scoring.
+**Tech:** Python · Scikit-learn
+<!-- TODO: add dataset size / number of books here once confirmed -->
 [Repo →](https://github.com/Shubham1919284/Book-Recommendation-System)
 
 ### 🎵 Spotify Top 50 Analysis
-Analysis of Spotify's Top 50 Global dataset, digging into trends across popularity, artists, and song attributes.
-**Python · Pandas · Data Visualization**
+Analysis of Spotify's Top 50 Global dataset — trends across popularity, artists, and song attributes.
+**Tech:** Python · Pandas · Data Visualization
 [Repo →](https://github.com/Shubham1919284/Spotify_Analysis)
 
 ### 🎬 Netflix Content Analysis
 Exploratory analysis of Netflix's content library — genres, release patterns, and content trends.
-**Python · Pandas · Jupyter Notebook**
+**Tech:** Python · Pandas · Jupyter Notebook
+<!-- TODO: add title count / number of visualizations once confirmed -->
 [Repo →](https://github.com/Shubham1919284/Netflix_Content_Analysis)
 
 ### 🤖 ChatBot — AI Chat Interface
-Clean chatbot front-end with dark mode, animated message transitions, Markdown + emoji support, and a typing indicator.
-**Python · Flask**
+Chatbot front-end with dark mode, animated transitions, Markdown + emoji support, and a typing indicator.
+**Tech:** Python · Flask
 [Repo →](https://github.com/Shubham1919284/ChatBot)
 
 ### 🌦 Skycast — Voice-Enabled Weather Assistant
-Voice-enabled weather chatbot supporting speech/text input, 3-day forecasts, AQI, and session history.
-**Python · WeatherAPI**
+Voice-enabled weather chatbot — speech/text input, 3-day forecasts, AQI, session history.
+**Tech:** Python · WeatherAPI
 [Repo →](https://github.com/Shubham1919284/Skycast)
 
 ---
@@ -88,6 +97,10 @@ Voice-enabled weather chatbot supporting speech/text input, 3-day forecasts, AQI
   <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,git,github,vscode" />
 </p>
 
+**Data & ML:** Pandas · NumPy · Scikit-learn · XGBoost · Seaborn · Jupyter
+**BI & Visualization:** Power BI · Plotly
+**Languages:** Python · SQL · C++
+
 ---
 
 ## 📊 GitHub Stats
@@ -95,10 +108,6 @@ Voice-enabled weather chatbot supporting speech/text input, 3-day forecasts, AQI
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham1919284&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
