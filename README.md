@@ -176,10 +176,8 @@ https://github.com/Shubham1919284/Skycast
 
 ---
 
-## ⭐ GitHub Achievements
-
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Shubham1919284?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars%20Earned" />
+  <img src="https://img.shields.io/github/stars/Shubham1919284?style=flat-square&logo=github&label=GitHub%20Stars" />
 </p>
 
 ---
