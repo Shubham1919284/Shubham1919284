@@ -176,6 +176,14 @@ https://github.com/Shubham1919284/Skycast
 
 ---
 
+## ⭐ GitHub Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Shubham1919284?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars%20Earned" />
+</p>
+
+---
+
 ## 📫 Best Way to Reach Me
 
 📧 Email: **sk1919284@gmail.com**
