@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Shubham Kumar Jha</h1>
 
 <p align="center">
@@ -25,13 +26,13 @@
 
 ### Who I am
 
-Final-year B.Tech CSE (Data Science) student who builds and deploys real ML models and data tools — not just notebooks. Previously worked as a Remote AI Trainer / NLP Prompt Evaluator at **Outlier**, evaluating model outputs. Currently looking for **Data Analyst, ML, and GenAI** roles — open to internships, full-time, and remote work.
+Final-year B.Tech CSE (Data Science) student who builds and deploys real ML models and data tools—not just notebooks. Previously worked as a Remote AI Trainer / NLP Prompt Evaluator at **Outlier**, evaluating model outputs. Currently looking for **Data Analyst, ML, and GenAI** roles—open to internships, full-time, and remote work.
 
 ### What I can do
 
-- **Machine Learning** — model building & deployment (XGBoost, scikit-learn)
+- **Machine Learning** — Model building & deployment (XGBoost, Scikit-learn)
 - **Data Analysis** — EDA & visualization (Pandas, NumPy, Seaborn, Plotly)
-- **Business Intelligence** — interactive dashboards (Power BI)
+- **Business Intelligence** — Interactive dashboards (Power BI)
 - **AI/LLM Tools** — LLM APIs, prompt evaluation
 - **Automation** — Flask/Streamlit apps, API integrations
 
@@ -40,90 +41,153 @@ Final-year B.Tech CSE (Data Science) student who builds and deploys real ML mode
 ## 🏆 Top Projects
 
 ### 📊 Black Friday Purchase Prediction
-End-to-end ML pipeline predicting customer purchase amounts during Black Friday sales — EDA, feature engineering, model comparison, and a real-time Streamlit app for instant predictions.
-**Dataset:** 550,000+ records (Kaggle) · **Result:** XGBoost outperformed Linear/Ridge/Lasso/Random Forest — R² = 0.6712, RMSE = 2878.57 · **Deployed:** Streamlit
-[Repo →](https://github.com/Shubham1919284/black-friday-purchase-prediction)
+End-to-end ML pipeline predicting customer purchase amounts during Black Friday sales—EDA, feature engineering, model comparison, and a real-time Streamlit app for instant predictions.
+
+**Dataset:** 550,000+ records (Kaggle)  
+**Result:** XGBoost outperformed Linear/Ridge/Lasso/Random Forest — **R² = 0.6712**, **RMSE = 2878.57**  
+**Deployed:** Streamlit
+
+🔗 https://github.com/Shubham1919284/black-friday-purchase-prediction
+
+---
 
 ### 📉 Telecom Customer Churn — Analysis & Dashboard
-End-to-end churn analysis combining a Python EDA notebook — identifying key churn drivers like contract type, tenure, and monthly charges — with an interactive Power BI dashboard for business reporting.
+
+End-to-end churn analysis combining Python EDA with an interactive Power BI dashboard.
+
 **Tech:** Python · Pandas · Seaborn · Power BI
-[EDA Repo →](https://github.com/Shubham1919284/Telecom-Churn-Analysis) · [Dashboard Repo →](https://github.com/Shubham1919284/Telecom-Churn-Dashboard)
+
+EDA:
+https://github.com/Shubham1919284/Telecom-Churn-Analysis
+
+Dashboard:
+https://github.com/Shubham1919284/Telecom-Churn-Dashboard
+
+---
 
 ### 🩺 Diabetes Prediction System
+
 Classification model predicting diabetes risk from patient health metrics.
-**Dataset:** PIMA Indians Diabetes dataset, 768 records · **Result:** SVM (linear kernel), test accuracy = 77.27%
-**Tech:** Python · Scikit-learn · Jupyter
-[Repo →](https://github.com/Shubham1919284/-Diabetes-Prediction-System)
+
+- Dataset: PIMA Indians Diabetes
+- Accuracy: **77.27%**
+- Tech: Python · Scikit-learn · Jupyter
+
+🔗 https://github.com/Shubham1919284/-Diabetes-Prediction-System
+
+---
 
 ### 📚 Book Recommendation System
-Recommender system suggesting books based on similarity scoring.
-**Tech:** Python · Scikit-learn
-[Repo →](https://github.com/Shubham1919284/Book-Recommendation-System)
+
+Recommender system suggesting books using similarity scoring.
+
+Tech:
+Python · Scikit-learn
+
+🔗
+https://github.com/Shubham1919284/Book-Recommendation-System
+
+---
 
 ### 🎵 Spotify Top 50 Analysis
-Analysis of Spotify's Top 50 Global dataset — trends across popularity, artists, and song attributes.
-**Tech:** Python · Pandas · Data Visualization
-[Repo →](https://github.com/Shubham1919284/Spotify_Analysis)
+
+Analysis of Spotify's Top 50 Global dataset.
+
+Tech:
+Python · Pandas · Data Visualization
+
+🔗
+https://github.com/Shubham1919284/Spotify_Analysis
+
+---
 
 ### 🎬 Netflix Content Analysis
-EDA on a 9,800+ title movie dataset — genre distribution, vote-average categorization (popular/average/below-average/not-popular), and release-year trends from 1902 to 2024.
-**Dataset:** 9,837 titles, 19 unique genres · **Top genres:** Drama, Comedy, Action
-**Tech:** Python · Pandas · Seaborn · Jupyter Notebook
-[Repo →](https://github.com/Shubham1919284/Netflix_Content_Analysis)
+
+EDA on 9,800+ Netflix titles.
+
+- Dataset: 9,837 Titles
+- Genres: 19
+- Tech: Python · Pandas · Seaborn
+
+🔗
+https://github.com/Shubham1919284/Netflix_Content_Analysis
+
+---
 
 ### 🤖 ChatBot — AI Chat Interface
-Chatbot front-end with dark mode, animated transitions, Markdown + emoji support, and a typing indicator.
-**Tech:** Python · Flask
-[Repo →](https://github.com/Shubham1919284/ChatBot)
 
-### 🌦 Skycast — Voice-Enabled Weather Assistant
-Voice-enabled weather chatbot — speech/text input, 3-day forecasts, AQI, session history.
-**Tech:** Python · WeatherAPI
-[Repo →](https://github.com/Shubham1919284/Skycast)
+Dark mode AI chatbot UI with Markdown, typing animation and emoji support.
+
+Tech:
+Python · Flask
+
+🔗
+https://github.com/Shubham1919284/ChatBot
+
+---
+
+### 🌦 Skycast — Voice Enabled Weather Assistant
+
+Voice-enabled weather chatbot with AQI, 3-day forecast and session history.
+
+Tech:
+Python · WeatherAPI
+
+🔗
+https://github.com/Shubham1919284/Skycast
 
 ---
 
 ## 📈 Business Intelligence Dashboards
 
-- **[Airlines Flight Dashboard](https://github.com/Shubham1919284/Airlines_Flight_Dashboard)** — Power BI analysis of flight performance, customer preferences, and revenue by class, time, and airline
-- **[Global Tech Layoff Dashboard](https://github.com/Shubham1919284/Global_Tech_Layoff_Dashboard)** — Power BI dashboard tracking global tech layoff trends
+- **Airlines Flight Dashboard**
+  https://github.com/Shubham1919284/Airlines_Flight_Dashboard
+
+- **Global Tech Layoff Dashboard**
+  https://github.com/Shubham1919284/Global_Tech_Layoff_Dashboard
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,git,github,vscode" />
 </p>
 
 **Languages:** Python · SQL · C++
+
 **Machine Learning:** Scikit-learn · XGBoost · Pandas · NumPy
+
 **Visualization & BI:** Power BI · Plotly · Seaborn
-**Development & Tools:** Flask · Streamlit · Jupyter · Git · GitHub · VS Code
+
+**Development & Tools:** Flask · Streamlit · Git · GitHub · Jupyter · VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shubham1919284&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=en&v=2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham1919284&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=en&v=2" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham1919284&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shubham1919284&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham1919284&theme=tokyo-night&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Shubham1919284&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham1919284&theme=tokyo-night&hide_border=true&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Best way to reach me
+## 📫 Best Way to Reach Me
 
-- **Email:** sk1919284@gmail.com
-- **LinkedIn:** [shubham-kumar-jha](https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c)
-- **Portfolio:** [shubham1919284.github.io/Portfolio](https://shubham1919284.github.io/Portfolio/)
+📧 Email: **sk1919284@gmail.com**
 
-Open to Data Analyst, ML, and GenAI roles — and happy to chat about freelance or remote opportunities too.
+💼 LinkedIn:
+https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c
+
+🌐 Portfolio:
+https://shubham1919284.github.io/Portfolio/
+
+---
+
+⭐ **Open to Data Analyst, Machine Learning, AI and GenAI opportunities.**
+```
