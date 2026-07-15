@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Shubham Kumar Jha</h1>
 
 <p align="center">
