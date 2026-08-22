@@ -8,7 +8,7 @@
   <a href="https://drive.google.com/file/d/1og5dOgQWxnSyZ8o4DB-IkcxKzrm33IIk/view?usp=sharing">📄 Resume</a> ·
   <a href="https://shubham1919284.github.io/Portfolio/">🌐 Portfolio</a> ·
   <a href="mailto:sk1919284@gmail.com">✉️ Email</a> ·
-  <a href="https://www.linkedin.com/in/shubham-kumar-jha-1a2b3c">💼 LinkedIn</a>
+  <a href="www.linkedin.com/in/shubhamkr-jha">💼 LinkedIn</a>
 </p>
 
 ---
