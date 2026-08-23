@@ -47,7 +47,7 @@ End-to-end ML pipeline classifying 48,895 NYC Airbnb listings into 3 room types 
 **Deployed:** FastAPI backend + JS frontend, live on Render
 
 🔗 [Shubham1919284/Room-Type-Predictor---NYC-Airbnb](https://github.com/Shubham1919284/Room-Type-Predictor---NYC-Airbnb)
-Live 🔗 [
+🔗 [**Live**](https://room-type-predictor-nyc-airbnb-1.onrender.com/)
 
 ---
 
