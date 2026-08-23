@@ -15,17 +15,17 @@
 
 ## 📌 Highlights
 
+- 🎓 B.Tech CSE (Data Science) — completed, CGPA 7.4
 - 🤖 Former AI Trainer at Outlier — LLM evaluation & prompt quality assessment
-- 📊 10+ Data Analytics, Machine Learning & BI projects, end to end
+- 📊 2 end-to-end ML & BI projects, built and deployed
 - 📈 Worked with datasets up to 100K+ records across ML & BI projects
-- 📉 Built a live PostgreSQL + Power BI dashboard alongside Python-based ML applications
-- 💼 Open to Data Analyst, ML & GenAI opportunities
+- 💼 Open to entry-level Data Analyst, ML & GenAI opportunities
 
 ---
 
 ### Who I am
 
-Final-year B.Tech CSE (Data Science) student who builds and deploys real ML models and data tools — not just notebooks. Previously worked as a Remote AI Trainer / NLP Prompt Evaluator at **Outlier**, evaluating model outputs. Currently looking for **Data Analyst, ML, and GenAI** roles — open to internships, full-time, and remote work.
+B.Tech CSE (Data Science) graduate who builds and deploys real ML models and data tools — not just notebooks. Previously worked as a Remote AI Trainer / NLP Prompt Evaluator at **Outlier**, evaluating model outputs. Currently looking for **entry-level Data Analyst, ML, and GenAI** roles — open to internships, full-time, and remote work.
 
 ### What I can do
 
@@ -61,62 +61,21 @@ End-to-end BI solution modeling ~100K Brazilian e-commerce orders — PostgreSQL
 
 ---
 
-## 📂 Other Projects
-
-### 🩺 Diabetes Prediction System
-Classification model predicting diabetes risk from patient health metrics.
-Dataset: PIMA Indians Diabetes · Accuracy: **77.27%** · Tech: Python · Scikit-learn · Jupyter
-🔗 [Shubham1919284/-Diabetes-Prediction-System](https://github.com/Shubham1919284/-Diabetes-Prediction-System)
-
-### 📚 Book Recommendation System
-Recommender system suggesting books using similarity scoring.
-Tech: Python · Scikit-learn
-🔗 [Shubham1919284/Book-Recommendation-System](https://github.com/Shubham1919284/Book-Recommendation-System)
-
-### 🎵 Spotify Top 50 Analysis
-Analysis of Spotify's Top 50 Global dataset.
-Tech: Python · Pandas · Data Visualization
-🔗 [Shubham1919284/Spotify_Analysis](https://github.com/Shubham1919284/Spotify_Analysis)
-
-### 🎬 Netflix Content Analysis
-EDA on 9,800+ Netflix titles across 19 genres.
-Tech: Python · Pandas · Seaborn
-🔗 [Shubham1919284/Netflix_Content_Analysis](https://github.com/Shubham1919284/Netflix_Content_Analysis)
-
-### 🤖 ChatBot — AI Chat Interface
-Dark mode AI chatbot UI with Markdown, typing animation and emoji support.
-Tech: Python · Flask
-🔗 [Shubham1919284/ChatBot](https://github.com/Shubham1919284/ChatBot)
-
-### 🌦 Skycast — Voice Enabled Weather Assistant
-Voice-enabled weather chatbot with AQI, 3-day forecast and session history.
-Tech: Python · WeatherAPI
-🔗 [Shubham1919284/Skycast](https://github.com/Shubham1919284/Skycast)
-
----
-
-## 📈 Business Intelligence Dashboards
-
-- **Airlines Flight Dashboard** — [Shubham1919284/Airlines_Flight_Dashboard](https://github.com/Shubham1919284/Airlines_Flight_Dashboard)
-- **Global Tech Layoff Dashboard** — [Shubham1919284/Global_Tech_Layoff_Dashboard](https://github.com/Shubham1919284/Global_Tech_Layoff_Dashboard)
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,flask,postgres,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,git,github,vscode" />
 </p>
 
-**Languages:** Python · SQL · C++
+**Languages:** Python · SQL
 
 **Machine Learning:** Scikit-learn · Pandas · NumPy
 
 **Databases & BI:** PostgreSQL · Power BI · DAX · DirectQuery
 
-**Visualization:** Plotly · Seaborn
+**Visualization:** Matplotlib · Seaborn
 
-**Development & Tools:** Flask · Streamlit · Git · GitHub · Jupyter · VS Code
+**Development & Tools:** FastAPI · Flask · Git · GitHub · Jupyter · VS Code
 
 ---
 
@@ -133,14 +92,6 @@ Tech: Python · WeatherAPI
 
 ---
 
-## ⭐ GitHub Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Shubham1919284?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars%20Earned" />
-</p>
-
----
-
 ## 📫 Best Way to Reach Me
 
 📧 Email: **sk1919284@gmail.com**
@@ -151,4 +102,4 @@ Tech: Python · WeatherAPI
 
 ---
 
-⭐ **Open to Data Analyst, Machine Learning, AI and GenAI opportunities.**
+⭐ **Open to entry-level Data Analyst, Machine Learning, AI and GenAI opportunities.**
