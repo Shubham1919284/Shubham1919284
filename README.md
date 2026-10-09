@@ -1,6 +1,8 @@
 <h1 align="center">Shubham Kumar Jha</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7¢er=true&vCenter=true&width=600&lines=Data+Analyst+%26+ML%2FBI+Developer;Building+real%2C+deployed+ML+%26+BI+products;Open+to+Data%2FML%2FGenAI+roles" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+ML%2FBI+Developer;Building+real%2C+deployed+ML+%26+BI+products;Open+to+Data%2FML%2FGenAI+roles" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Shubham1919284/Portfolio/raw/main/Shubham_ML_DS_Resume_Updated.pdf">📄 Resume</a> ·
