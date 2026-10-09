@@ -1,27 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>README.md Generator</title>
-<style>
-  body { font-family: Arial, sans-serif; max-width: 900px; margin: 40px auto; padding: 0 20px; }
-  textarea { width: 100%; height: 600px; font-family: Consolas, monospace; font-size: 13px; margin-top: 10px; }
-  button { padding: 14px 28px; font-size: 17px; background: #2ea44f; color: white; border: none; border-radius: 6px; cursor: pointer; }
-  button:hover { background: #268a45; }
-</style>
-</head>
-<body>
+<h1 align="center">Shubham Kumar Jha</h1>
 
-<h2>Your README.md is ready</h2>
-
-<p><b>Option A (easiest):</b> Click the green button — it downloads <b>README.md</b> as a complete file.</p>
-<button onclick="downloadFile()">&#11015;&#65039; Download README.md</button>
-
-<p style="margin-top:30px"><b>Option B:</b> Click inside the white box below &rarr; press <b>Ctrl+A</b> &rarr; press <b>Ctrl+C</b>. The markdown is now copied — paste it into GitHub's README editor.</p>
-
-<textarea id="md"><h1 align="center">Shubham Kumar Jha</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+ML%2FBI+Developer;Building+real%2C+deployed+ML+%26+BI+products;Open+to+Data%2FML%2FGenAI+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7¢er=true&vCenter=true&width=600&lines=Data+Analyst+%26+ML%2FBI+Developer;Building+real%2C+deployed+ML+%26+BI+products;Open+to+Data%2FML%2FGenAI+roles" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://github.com/Shubham1919284/Portfolio/raw/main/Shubham_ML_DS_Resume_Updated.pdf">📄 Resume</a> ·
@@ -129,20 +108,4 @@ End-to-end BI solution modeling ~100K Brazilian e-commerce orders — MySQL rela
 
 ---
 
-⭐ **Open to entry-level Data Analyst, Machine Learning, AI and GenAI opportunities.**</textarea>
-
-<script>
-function downloadFile() {
-  var text = document.getElementById('md').value;
-  var blob = new Blob([text], { type: 'text/markdown' });
-  var a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'README.md';
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-}
-</script>
-
-</body>
-</html>
+⭐ **Open to entry-level Data Analyst, Machine Learning, AI and GenAI opportunities.**
